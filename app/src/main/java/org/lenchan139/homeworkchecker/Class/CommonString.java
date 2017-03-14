@@ -7,7 +7,7 @@ package org.lenchan139.homeworkchecker.Class;
 public class CommonString {
 
     //URL to our login.php file
-    public static final String LOGIN_URL = "https://lenchan139.org/myWorks/FYP/android/login.php";
+    public static final String LOGIN_URL = "https://lenchan139.org/myWorks/fyp/android/login.php";
 
     //Keys for email and password as defined in our $_POST['key'] in login.php
     public static final String KEY_USERNAME = "username";
